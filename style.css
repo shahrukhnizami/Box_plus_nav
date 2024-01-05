@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(54, 174, 221);
+   
+    
+}
+.main{
+    width: 90%;
+    margin:0px auto;
+    text-align: center;
+    
+    
+ 
+    
+}
+.child{
+    
+    max-width:  25%;
+    min-width: 10%;
+    margin-top: 10px;
+    margin-left: 6%;
+    
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+    height: auto;
+    border: 1px solid black;
+    
+    
+    
+    
+}
+.child:hover{
+    background-color:#e2306c ;
+    color: #fff;
+}
+span{
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+span:hover{
+    background-color: #fff;
+    color: #e2306c;
+
+}
+nav>span{
+    
+    text-align: center;
+    background-color: #fff;
+    color: black;
+    margin-left: 6%;
+   
+    
+
+}
+nav>span:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+
+}
+.child>p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
