@@ -12,26 +12,55 @@ body{
  
     
 }
-.child{
-    
+
+.twiter{
     max-width:  25%;
     min-width: 10%;
     margin-top: 10px;
-    margin-left: 6%;
-    
+    margin-left: 6%;    
     background-color: rgb(255, 255, 255);
     text-align: center;
     display: inline-block;
     border-radius: 5px;
     height: auto;
     border: 1px solid black;
-    
-    
-    
-    
 }
-.child:hover{
-    background-color:#e2306c ;
+.twiter:hover{
+    background-color: #00b8ec;
+    color: #fff;
+
+}
+.insta{
+    max-width:  25%;
+    min-width: 10%;
+    margin-top: 10px;
+    margin-left: 6%;    
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+    height: auto;
+    border: 1px solid black;
+}
+.insta:hover{
+    background-color: #e2306c;
+    color: #fff;
+
+}
+.utube{
+    max-width:  25%;
+    min-width: 10%;
+    margin-top: 10px;
+    margin-left: 6%;    
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+    height: auto;
+    border: 1px solid black;
+}
+.utube:hover{
+    background-color: #ff0000;
     color: #fff;
 }
 span{
@@ -64,7 +93,7 @@ nav>span:hover{
     color: rgb(255, 255, 255);
 
 }
-.child>p{
+p{
     margin-left: 10px;
     margin-right: 10px;
 }
