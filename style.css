@@ -22,7 +22,6 @@
     color: #fff;
 
 }
-
 .insta{
     max-width:  25%;
     min-width: 10%;
@@ -77,10 +76,7 @@ nav>span{
     background-color: #fff;
     color: black;
     margin-left: 6%;
-   
-    
-
-}
+   }
 nav>span:hover{
     background-color: black;
     color: rgb(255, 255, 255);
